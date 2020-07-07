@@ -1,2 +1,2 @@
 # Quantic
-The files used to randomly generate an interpretation of a muci piece.
+The files used to randomly generate an interpretation of a music piece.
